@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "RonasUfa",
     "description": "",
-    "home_page_url": "https://neftekamsksmart.ru",
-    "feed_url": "https://neftekamsksmart.ru/feed.json",
+    "home_page_url": "https://neftekamsksmart.ru/ufa",
+    "feed_url": "https://neftekamsksmart.ru/ufa/feed.json",
     "user_comment": "",
-    "icon": "https://neftekamsksmart.ru/media/website/ronas_O.png",
+    "icon": "https://neftekamsksmart.ru/ufa/media/website/ronas_O.png",
     "author": {
         "name": "Ronas"
     },
